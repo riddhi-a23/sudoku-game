@@ -40,3 +40,7 @@ This game doesn't just pull puzzles from a database. It creates them in real-tim
 3.  **Step 3:** Randomly removes 40 numbers to create the "puzzle" for the player to solve.
 
 ## 📸 Screenshots
+
+| Classic Board | Solved Puzzle |
+|:---:|:---:|
+| <img src="game-start.png" width="400"> | <img src="game-won.png" width="400"> |
